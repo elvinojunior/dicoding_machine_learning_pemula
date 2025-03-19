@@ -2,9 +2,7 @@
 Proyek akhir untuk kelas "Machine Learning Pemula" di platform dicoding
 
 # Dataset
-Menggunakan Dataset dari Kaggle 
+Menggunakan Dataset IMDB Movies dari Kaggle 
 
-https://www.kaggle.com/datasets/muhammadtahir194/movies-dataset-tmdb-top-rated/
-
-![image](https://github.com/user-attachments/assets/074fef4b-d181-45a6-9d14-c0f5f6d239c0)
-
+https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset/
+![image](https://github.com/user-attachments/assets/012eecae-9480-4fb5-9cc8-64addfc26efa)
