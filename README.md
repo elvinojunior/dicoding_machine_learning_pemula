@@ -2,7 +2,8 @@
 Proyek akhir untuk kelas "Machine Learning Pemula" di platform dicoding
 
 # Dataset
-Menggunakan Dataset IMDB Movies dari Kaggle 
+Menggunakan Student Depression Dataset dari Kaggle 
 
-https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset/
-![image](https://github.com/user-attachments/assets/012eecae-9480-4fb5-9cc8-64addfc26efa)
+https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset/
+![image](https://github.com/user-attachments/assets/907828d3-123a-49ab-aeca-52dee733c1d3)
+
